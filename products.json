@@ -1,0 +1,145 @@
+{
+  "products": [
+    {
+      "id": "pu-erh-tea",
+      "name": "Чай Пуэр с элеутерококком",
+      "nameWithVolume": "Чай Пуэр с элеутерококком, 320 мл",
+      "heroTitle": "чай Пуэр с элеутерококком!",
+      "heroImage": "images/46f1f2f765cd599cce8b5d070c19afdca011d99e.png",
+      "thumbnail": "images/d1b13908473c21b025d60de58bbdcc11c5e0446b.png",
+      "preview_image": "images/d1b13908473c21b025d60de58bbdcc11c5e0446b.png",
+      "price": "150",
+      "link": "",
+      "whyOnShelf": "Потому что я бодрость без перегруза. Элеутерококк — мой секретный супергерой: помогает справляться со стрессом, держит фокус и даёт сил. Говорят, даже Чак Норрис начинал день со мной!",
+      "composition": "вода питьевая, экстракт чёрного чая, экстракт пуэра, экстракт элеутерококка, краситель – сахарный колер I простой",
+      "allergens": [
+        "Чай (черный и пуэр) содержат белок f222",
+        "Элеутерококк",
+        "Краситель сахарный колер I простой"
+      ],
+      "nutrition": {
+        "proteins": "6.5 г",
+        "fats": "5.4 г",
+        "carbs": "21.3 г",
+        "calories": "169"
+      },
+      "video": "video/pu-erh-tea.mp4"
+    },
+    {
+      "id": "protein-cream-tubes",
+      "name": "Трубочки с белковым кремом",
+      "nameWithVolume": "Трубочки с белковым кремом",
+      "heroTitle": "трубочки с белковым кремом!",
+      "heroImage": "images/46f1f2f765cd599cce8b5d070c19afdca011d99e.png",
+      "thumbnail": "images/d1b13908473c21b025d60de58bbdcc11c5e0446b.png",
+      "preview_image": "image_preview/protein-cream-tubes-img.webp",
+      "price": "343",
+      "link": "https://vkusvill.ru/goods/trubochki-s-belkovym-kremom-5-sht-72787.html",
+      "whyOnShelf": "Мы увеличенная порция того самого десерта из детства. Идеальны для того, чтобы взять в гости. Пять хрустящих трубочек, щедро наполненных облаком белкового крема – его так много, что следы на носу и щеках выдают сладкоежек.",
+      "composition": "трубочки из слоёного теста (мука пшеничная хлебопекарная высшего сорта, масло сладко-сливочное несолёное \"Крестьянское\" м.д.ж. 72,5%, яйцо куриное пищевое, вода питьевая, соль пищевая), крем белковый (белок яичный пастеризованный, сахар, вода питьевая, регулятор кислотности - кислота лимонная)",
+      "allergens": [
+        "Арахис",
+        "Орехи"
+      ],
+      "nutrition": {
+        "proteins": "3.6 г",
+        "fats": "11.2 г",
+        "carbs": "39.6 г",
+        "calories": "273.6"
+      },
+      "video": "video/protein-cream-tubes.mp4"
+    },
+    {
+      "id": "potato-cake",
+      "name": "Пирожное картошка",
+      "nameWithVolume": "Пирожное картошка",
+      "heroTitle": "пирожное картошка!",
+      "heroImage": "images/46f1f2f765cd599cce8b5d070c19afdca011d99e.png",
+      "thumbnail": "images/d1b13908473c21b025d60de58bbdcc11c5e0446b.png",
+      "preview_image": "image_preview/potato-cake-img.webp",
+      "price": "214",
+      "link": "https://vkusvill.ru/goods/pirozhnoe-biskvitnoe-kartoshka-1280.html",
+      "whyOnShelf": "Потому что я – тот самый вкус из детства, насыщенно-шоколадный, с нежнейшим масляным кремом. Ммм… разве можно устоять передо мной?",
+      "composition": "яйцо куриное пищевое, сахар, мука пшеничная высшего сорта, масло сладко-сливочное несолёное «Крестьянское» м. д. ж. 72,5 %, молоко питьевое нормализованное м. д. ж. 3,2 %, какао-порошок",
+      "allergens": [],
+      "nutrition": {
+        "proteins": "7.2 г",
+        "fats": "13.3 г",
+        "carbs": "42.8 г",
+        "calories": "319.7"
+      },
+      "video": "video/potato-cake.mp4"
+    },
+    {
+      "id": "ant-balls",
+      "name": "Муравейные шарики",
+      "nameWithVolume": "Муравейные шарики",
+      "heroTitle": "муравейные шарики!",
+      "heroImage": "images/46f1f2f765cd599cce8b5d070c19afdca011d99e.png",
+      "thumbnail": "images/d1b13908473c21b025d60de58bbdcc11c5e0446b.png",
+      "preview_image": "image_preview/ant-balls-img.webp",
+      "price": "242",
+      "link": "https://vkusvill.ru/goods/pirozhnye-muraveynye-shariki-52535.html",
+      "whyOnShelf": "Мы – уменьшённая версия классического торта «Муравейник», но с тем же насыщенным сливочно-медовым вкусом. Удобный формат, чтобы взять с собой и наслаждаться в дороге или на прогулке. Говорят, даже пчёлы не могут пролететь мимо нас.",
+      "composition": "молоко сгущённое варёное с сахаром м.д.ж. 8,5% (молоко цельное, молоко обезжиренное, сахар (сахароза, лактоза)), мука пшеничная хлебопекарная высшего сорта, масло сладко-сливочное несолёное м.д.ж. 82,5%, сахар, сметана м.д.ж. 30% (сливки нормализованные, закваска молочнокислых микроорганизмов), крахмал кукурузный, мёд цветочный натуральный, меланж яичный пастеризованный, разрыхлитель - гидрокарбонат натрия (сода пищевая), соль пищевая",
+      "allergens": [
+        "Кунжут",
+        "Орехи",
+        "Соя"
+      ],
+      "nutrition": {
+        "proteins": "6.7 г",
+        "fats": "31.4 г",
+        "carbs": "47.5 г",
+        "calories": "499.4"
+      },
+      "video": "video/ant-balls.mp4"
+    },
+    {
+      "id": "tangerine-juice",
+      "name": "Мандариновый сок",
+      "nameWithVolume": "Мандариновый сок",
+      "heroTitle": "мандариновый сок!",
+      "heroImage": "images/46f1f2f765cd599cce8b5d070c19afdca011d99e.png",
+      "thumbnail": "images/d1b13908473c21b025d60de58bbdcc11c5e0446b.png",
+      "preview_image": "image_preview/tangerine-juice-img.webp",
+      "price": "520",
+      "link": "https://vkusvill.ru/goods/sok-mandarinovyy-pryamogo-otzhima-1-l-102276.html",
+      "whyOnShelf": "Я – настоящее солнце в коробке. Меня выжимают из спелых испанских мандаринов и сразу разливают по тарам. Внутри нет никаких добавок, только мандарины и свежесть южного побережья.",
+      "composition": "сок мандариновый",
+      "allergens": [],
+      "nutrition": {
+        "proteins": "0.7 г",
+        "fats": "0.1 г",
+        "carbs": "10.5 г",
+        "calories": "45.7"
+      },
+      "video": "video/tangerine-juice.mp4"
+    },
+    {
+      "id": "waffle-tubes",
+      "name": "Вафельные трубочки",
+      "nameWithVolume": "Вафельные трубочки",
+      "heroTitle": "вафельные трубочки!",
+      "heroImage": "images/46f1f2f765cd599cce8b5d070c19afdca011d99e.png",
+      "thumbnail": "images/d1b13908473c21b025d60de58bbdcc11c5e0446b.png",
+      "preview_image": "image_preview/waffle-tubes-img.webp",
+      "price": "262",
+      "link": "https://vkusvill.ru/goods/vafelnye-trubochki-s-varenoy-sgushchenkoy-20973.html",
+      "whyOnShelf": "Мы на полке, чтобы радовать вас настоящим домашним лакомством – сахарное тесто тает во рту, а вареная сгущенка даёт потрясающее карамельное послевкусие. Угостите вашу бабушку, и она не отличит десерт от своего.",
+      "composition": "мука пшеничная хлебопекарная высшего сорта, яйцо куриное пищевое, масло сладкосливочное несолёное «Крестьянское» массовая доля жира 72,5 %, молоко сгущённое с сахаром варёное массовая доля жира 8,5 % (молоко цельное, сахар), сахар",
+      "allergens": [
+        "Арахис",
+        "Орехи"
+      ],
+      "nutrition": {
+        "proteins": "7.6 г",
+        "fats": "17.5 г",
+        "carbs": "53.4 г",
+        "calories": "401.5"
+      },
+      "video": "video/waffle-tubes.mp4"
+    }
+  ]
+}
+

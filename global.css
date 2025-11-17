@@ -1,0 +1,58 @@
+:root {
+  --color-white: #ffffff;
+  --color-black: #1a1a1a;
+  --color-text-primary: #212328;
+  --color-text-secondary: #c2c2c2;
+  --color-green-light: #dcfae7;
+  --color-green-dark: #00c950;
+  --color-green-link: #00a63e;
+  --color-blue-light: #cce9ff;
+  --color-pink-light: #ffd9ed;
+  --color-yellow-light: #ffee9b;
+  --color-gray-bg: #f2f2f2;
+  --color-gray-bg-darker: #f8f8fa;
+  --color-gray-border: #f3f4f6;
+  --color-gray-border-darker: #e5e7eb;
+  --color-gray-border-alt: #ebebeb;
+  --color-price-bg: #f0f0f4;
+  --color-allergen-no: #e51f1f;
+  --font-family-main: 'Inter', 'Euclid Circular B', sans-serif;
+  --font-family-display: 'Villula', 'Inter', sans-serif; /* Prefer Villula for display titles */
+}
+
+@font-face {
+  font-family: 'Villula';
+  src: url('fonts/villula-regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-family-main);
+  background-color: var(--color-white);
+  color: var(--color-text-primary);
+}
+
+.main-container {
+  max-width: 394px;
+  margin: 0 auto;
+  background-color: var(--color-white);
+  overflow-x: hidden;
+}
+
+.section-padding {
+  padding-left: 24px;
+  padding-right: 24px;
+}
+
+h1, h2, h3, h4, p {
+  margin: 0;
+}
